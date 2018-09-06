@@ -1,4 +1,4 @@
 # Summary
 
-- [Homebrew](Homebrew/README.md)
-  - [Commands](Homebrew/Commands.md)
+- [Homebrew](homebrew/README.md)
+  - [Commands](homebrew/commands.md)
