@@ -3,3 +3,7 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
+
+redirects:
+  chapter/homebrew: ./Homebrew/README.md
+  chapter/homebrew/introduction: ./Homebrew/README.md
