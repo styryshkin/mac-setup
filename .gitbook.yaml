@@ -5,5 +5,5 @@ structure:
   summary: SUMMARY.md
 
 redirects:
-  chapter/homebrew: homebrew/README.md
-  chapter/homebrew/introduction: homebrew/README.md
+  chapter/homebrew/READMY: homebrew/READMY.md
+  chapter/homebrew/commands: homebrew/commands.md
