@@ -1,6 +1,6 @@
 # Homebrew
 
-Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's macOS operating system. Packages are collections of files that are bundled together that can be installed and removed as a group. A package manager is a tool which automates the process of installing, updating, and removing packages.
+> Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's macOS operating system. Packages are collections of files that are bundled together that can be installed and removed as a group. A package manager is a tool which automates the process of installing, updating, and removing packages.
 
 ## Installation
 
