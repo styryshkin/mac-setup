@@ -16,4 +16,4 @@
   - [Cask](homebrew/cask.md)
 - [iTerm2](iterm2/README.md)
   - [Zsh](iterm2/zsh.md)
-  - [Oh My Zsh](iterms2/oh-my-zsh.md)
+  - [Oh My Zsh](iterm2/oh-my-zsh.md)
