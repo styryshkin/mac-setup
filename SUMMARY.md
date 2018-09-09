@@ -8,7 +8,7 @@
 - [System Preferences](system/preferences.md)
 - [Applications](system/apps.md)
 
-## Homebrew
+## Console
 
 - [Homebrew](homebrew/README.md)
   - [Commands](homebrew/commands.md)
