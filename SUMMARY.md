@@ -6,6 +6,7 @@
 
 - [Installation](system/README.md)
 - [System Preferences](system/preferences.md)
+- [Applications](system/apps.md)
 
 ## Homebrew
 
