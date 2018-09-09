@@ -4,7 +4,8 @@
 
 ## System
 
-- [System](system/README.md)
+- [Installation](system/README.md)
+- [System Preferences](system/preferences.md)
 
 ## Homebrew
 
