@@ -21,12 +21,12 @@
 ## Git
 
 - [Git](git/README.md)
-  - [Github](git/github.md)
+- [Github](git/github.md)
 
 ## NodeJs
 
 - [NodeJs](nodejs/README.md)
-  - [npm](nodejs/npm.md)
+- [npm](nodejs/npm.md)
 
 ## IDE
 
