@@ -14,3 +14,4 @@
 - [Homebrew](homebrew/README.md)
   - [Commands](homebrew/commands.md)
   - [Cask](homebrew/cask.md)
+- [iTerm2](iterm2/README.md)
