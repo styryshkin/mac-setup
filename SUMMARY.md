@@ -17,3 +17,5 @@
 - [iTerm2](iterm2/README.md)
   - [Zsh](iterm2/zsh.md)
   - [Oh My Zsh](iterm2/oh-my-zsh.md)
+- [Git](git/README.md)
+  - [Github](git/github.md)
