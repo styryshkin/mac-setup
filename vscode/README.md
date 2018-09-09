@@ -18,7 +18,7 @@ You can also run VS Code from the terminal by typing 'code' after adding it to t
 
 1. Launch VS Code.
 
-2.Open the **Command Palette (⇧⌘P)** and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
+2. Open the **Command Palette (⇧⌘P)** and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
 
 3. Restart the terminal for the new `$PATH` value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
 
@@ -26,134 +26,134 @@ You can also run VS Code from the terminal by typing 'code' after adding it to t
 
 There are many things you can do to customize VS Code.
 
-- ### Change your theme
+### Change your theme
 
-  **Keyboard Shortcut**: `⌘K ⌘T`
+**Keyboard Shortcut**: `⌘K ⌘T`
 
-  **Theme**: `Material Theme Palenight High Contrast`
+**Theme**: `Material Theme Palenight High Contrast`
 
-  **Icon Theme**: `Material Theme Icons Palenight`
+**Icon Theme**: `Material Theme Icons Palenight`
 
-- ### Tune your settings
+### Tune your settings
 
-  **Keyboard Shortcut**: `⌘,`
+**Keyboard Shortcut**: `⌘,`
 
-  `editor.fontFamily`: "Operator Mono"
+`editor.fontFamily`: "Operator Mono"
 
-  `editor.fontSize`: 13
+`editor.fontSize`: 13
 
-  `editor.fontLigatures`: true
+`editor.fontLigatures`: true
 
-  `editor.formatOnPaste`: true
+`editor.formatOnPaste`: true
 
-  `editor.formatOnType`: false
+`editor.formatOnType`: false
 
-  `editor.renderWhitespace`: "all"
+`editor.renderWhitespace`: "all"
 
-  `editor.snippetSuggestions`: "top"
+`editor.snippetSuggestions`: "top"
 
-  `editor.tabSize`: 2
+`editor.tabSize`: 2
 
-  `files.associations`: {
-  ".babelrc": "json5"
-  }
+`files.associations`: {
+".babelrc": "json5"
+}
 
-  `files.autoSave`: "onFocusChange"
+`files.autoSave`: "onFocusChange"
 
-  `explorer.decorations.badges`: false
+`explorer.decorations.badges`: false
 
-  `extensions.ignoreRecommendations`: false
+`extensions.ignoreRecommendations`: false
 
-  `eslint.autoFixOnSave`: true
+`eslint.autoFixOnSave`: true
 
-  `git.autofetch`: true
+`git.autofetch`: true
 
-  `git.confirmSync`: false
+`git.confirmSync`: false
 
-  `prettier.eslintIntegration`: true
+`prettier.eslintIntegration`: true
 
-* ### Install extensions
+### Install extensions
 
-  - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
-  ```
-  code --install-extension formulahendry.auto-close-tag
-  ```
+```
+code --install-extension formulahendry.auto-close-tag
+```
 
-  - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-  ```
-  code --install-extension formulahendry.auto-rename-tag
-  ```
+```
+code --install-extension formulahendry.auto-rename-tag
+```
 
-  - [Code Navigation](https://marketplace.visualstudio.com/items?itemName=vikas.code-navigation)
+- [Code Navigation](https://marketplace.visualstudio.com/items?itemName=vikas.code-navigation)
 
-  ```
-  code --install-extension vikas.code-navigation
-  ```
+```
+code --install-extension vikas.code-navigation
+```
 
-  - [Create Unique Ids](https://marketplace.visualstudio.com/items?itemName=donjayamanne.createuniqueid)
+- [Create Unique Ids](https://marketplace.visualstudio.com/items?itemName=donjayamanne.createuniqueid)
 
-  ```
-  code --install-extension donjayamanne.createuniqueid
-  ```
+```
+code --install-extension donjayamanne.createuniqueid
+```
 
-  - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
-  ```
-  code --install-extension mikestead.dotenv
-  ```
+```
+code --install-extension mikestead.dotenv
+```
 
-  - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
-  ```
-  code --install-extension dsznajder.es7-react-js-snippets
-  ```
+```
+code --install-extension dsznajder.es7-react-js-snippets
+```
 
-  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-  ```
-  code --install-extension dbaeumer.vscode-eslint
-  ```
+```
+code --install-extension dbaeumer.vscode-eslint
+```
 
-  - [Flow Language Support](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
+- [Flow Language Support](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
 
-  ```
-  code --install-extension flowtype.flow-for-vscode
-  ```
+```
+code --install-extension flowtype.flow-for-vscode
+```
 
-  - [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
+- [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
 
-  ```
-  code --install-extension tombonnike.vscode-status-bar-format-toggle
-  ```
+```
+code --install-extension tombonnike.vscode-status-bar-format-toggle
+```
 
-  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-  ```
-  code --install-extension eamodio.gitlens
-  ```
+```
+code --install-extension eamodio.gitlens
+```
 
-  - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-  ```
-  code --install-extension PKief.material-icon-theme
-  ```
+```
+code --install-extension PKief.material-icon-theme
+```
 
-  - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 
-  ```
-  code --install-extension Equinusocio.vsc-material-theme
-  ```
+```
+code --install-extension Equinusocio.vsc-material-theme
+```
 
-  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-  ```
-  code --install-extension esbenp.prettier-vscode
-  ```
+```
+code --install-extension esbenp.prettier-vscode
+```
 
-  - [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode)
+- [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode)
 
-  ```
-  code --install-extension joshpeng.sublime-babel-vscode
-  ```
+```
+code --install-extension joshpeng.sublime-babel-vscode
+```
