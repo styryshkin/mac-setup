@@ -1,83 +1,84 @@
-# Install Applications
+# Applications
 
 ## Non-Developer Applications
 
-- Avast Security
+* Avast Security
 
-```
+```text
 brew cask install avast-security
 ```
 
-- [Bear](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
-- Google Chrome
+* [Bear](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
+* Google Chrome
 
-```
+```text
 brew cask install google-chrome
 ```
 
-- RememBear
+* RememBear
 
-```
+```text
 brew cask install remembear
 ```
 
-- Skype
+* Skype
 
-```
+```text
 brew cask install skype
 ```
 
-- Slack
+* Slack
 
-```
+```text
 brew cask install slack
 ```
 
-- Spotify
+* Spotify
 
-```
+```text
 brew cask install spotify
 ```
 
-- Telegram
+* Telegram
 
-```
+```text
 brew cask install telegram
 ```
 
-- [TogglDesktop](https://toggl.com/toggl-desktop/)
-- [Todoist](https://todoist.com)
-- TunnelBear
+* [TogglDesktop](https://toggl.com/toggl-desktop/)
+* [Todoist](https://todoist.com)
+* TunnelBear
 
-```
+```text
 brew cask install tunnelbear
 ```
 
-- VLC
+* VLC
 
-```
+```text
 brew cask install vlc
 ```
 
 ## Developer Applications
 
-- Docker
+* Docker
 
-```
+```text
 brew cask install docker
 ```
 
-- iTerm 2
+* iTerm 2
 
-```
+```text
 brew cask install iterm2
 ```
 
-- Postman
+* Postman
 
-```
+```text
 brew cask install postman
 ```
 
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- XCode
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* XCode
+

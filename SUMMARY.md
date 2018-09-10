@@ -1,33 +1,34 @@
 # Table of contents
 
-- [Introduction](README.md)
+* [Introduction](README.md)
 
 ## System
 
-- [Installation](system/README.md)
-- [System Preferences](system/preferences.md)
-- [Applications](system/apps.md)
+* [Installation](system/system.md)
+* [System Preferences](system/preferences.md)
+* [Applications](system/apps.md)
 
 ## Console
 
-- [Terms](console/README.md)
-- [Homebrew](homebrew/README.md)
-  - [Commands](homebrew/commands.md)
-  - [Cask](homebrew/cask.md)
-- [iTerm2](iterm2/README.md)
-  - [Zsh](iterm2/zsh.md)
-  - [Oh My Zsh](iterm2/oh-my-zsh.md)
+* [Terms](console/console.md)
+* [Homebrew](console/homebrew/README.md)
+  * [Commands](console/homebrew/commands.md)
+  * [Cask](console/homebrew/cask.md)
+* [iTerm2](console/iterm2/README.md)
+  * [Zsh](console/iterm2/zsh.md)
+  * [Oh My Zsh](console/iterm2/oh-my-zsh.md)
 
 ## Git
 
-- [Git](git/README.md)
-- [Github](git/github.md)
+* [Git](git/git.md)
+* [Github](git/github.md)
 
 ## NodeJs
 
-- [NodeJs](nodejs/README.md)
-- [npm](nodejs/npm.md)
+* [NodeJs](nodejs/nodejs.md)
+* [npm](nodejs/npm.md)
 
 ## IDE
 
-- [Visual Studio Code](vscode/README.md)
+* [Visual Studio Code](ide/vscode.md)
+

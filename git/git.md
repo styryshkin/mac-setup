@@ -8,7 +8,7 @@ To use Git on the command line, you'll need to download, install, and configure 
 
 To install, run:
 
-```
+```text
 brew install git
 ```
 
@@ -18,14 +18,15 @@ Git uses a username to associate commits with an identity.
 
 ### Setting Git username and email for every repository on your computer
 
-```
+```text
 git config --global user.name "Your Name Here"
 git config --global user.email "your_email@youremail.com"
 ```
 
 ### Setting Git username and email for a single repository
 
-```
+```text
 git config user.name "Your Name Here"
 git config user.email "your_email@youremail.com"
 ```
+
