@@ -15,12 +15,7 @@ brew cask install avast-security
 brew cask install google-chrome
 ```
 
-* RememBear
-
-```text
-brew cask install remembear
-```
-
+* [RememBear](https://www.remembear.com/download)
 * Skype
 
 ```text
