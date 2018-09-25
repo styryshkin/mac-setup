@@ -33,7 +33,7 @@ Oh My Zsh comes with a shitload of plugins to take advantage of. You can take a 
 **Enabling Plugins** Once you spot a plugin \(or several\) that you'd like to use with Oh My Zsh, you'll need to enable them in the `.zshrc` file. You'll find the zshrc file in your `$HOME` directory. Open it with your favorite text editor and you'll see a spot to list all the plugins you want to load.
 
 ```text
-vi ~/.zshrc
+vim ~/.zshrc
 ```
 
 * [git](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#git)
