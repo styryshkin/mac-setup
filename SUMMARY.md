@@ -32,3 +32,7 @@
 
 * [Visual Studio Code](ide/vscode.md)
 
+## Cheatsheet
+
+* [Terminal](cheatsheet/terminal.md)
+
