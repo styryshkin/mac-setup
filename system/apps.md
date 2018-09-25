@@ -2,12 +2,6 @@
 
 ## Non-Developer Applications
 
-* Avast Security
-
-```text
-brew cask install avast-security
-```
-
 * [Bear](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 * Google Chrome
 
