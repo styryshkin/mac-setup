@@ -62,6 +62,18 @@ brew cask install docker
 brew cask install iterm2
 ```
 
+* Hyper \(A terminal built on web technologies\)
+
+```text
+brew cask install hyper
+```
+
+Lepton \(Democratizing Snippet Management\)
+
+```text
+brew cask install lepton
+```
+
 * Postman
 
 ```text
