@@ -9,6 +9,7 @@
 brew cask install google-chrome
 ```
 
+* Reader 3 \(RSS\)
 * [RememBear](https://www.remembear.com/download)
 * Skype
 
