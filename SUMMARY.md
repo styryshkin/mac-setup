@@ -21,6 +21,7 @@
 ## Git
 
 * [Git](git/git.md)
+* [Git Aliases](git/git-aliases.md)
 * [Github](git/github.md)
 
 ## NodeJs
