@@ -74,6 +74,7 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 
 **Configurations**
 
+* [punctual-zsh-theme](https://github.com/dannynimmo/punctual-zsh-theme)
 * [mavam's Configuration](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config#mavams-configuration)
 
 To use configuration, need to edit the `~/.zshrc`f ile.
