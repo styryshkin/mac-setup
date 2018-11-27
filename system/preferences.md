@@ -1,5 +1,9 @@
 # System Preferences
 
+## General
+
+Appearance: `Dark`
+
 ## Dock
 
 * Size: `1/3`
